@@ -1,2 +1,4 @@
-# flow
-Paweł Orlikowski 
+
+Paweł Orlikowski jestem
+=======
+# Lucek - Obecny!
