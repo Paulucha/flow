@@ -6,7 +6,7 @@
 - julek obecny
 
 
-Paweł Orlikowski jestem
+> Paweł Orlikowski jestem
 
 # Lucek - Obecny!
 
